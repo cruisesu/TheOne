@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>康文昌的在线HTML 教学小工具</title>
+    <style>
+        body {
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div style="
+    background-color:#611111;
+    text-align:center;
+    padding:10px;
+    ">
+        <a href="https://imgloc.com/i/X9r9z"><img src="https://i.328888.xyz/2023/02/20/X9r9z.th.jpeg" alt="X9r9z.jpeg"
+                border="0" width="80" height="80" /></a>
+    </div>
+</body>
+
+<body>
+    <div style="
+    max-width:700px;
+    margin:30px auto;
+    padding:15px;
+    line-height:1.7">
+
+        <p>【ArcGIS学习教程】</p>
+        <a
+            href="https://www.bilibili.com/video/BV1Xz4y197oy/?share_source=copy_web&vd_source=a53ca93cafa9da1be869586a14e4465">ArcGIS(1)</a>
+        <p>怕你一个看不明白，还有第二个</p>
+        <a
+            href=" https://www.bilibili.com/video/BV1Mh411J7AS/?share_source=copy_web&vd_source=a53ca93cafa9da1be869586a14e44651">ArcGIS(2)</a>
+        <p>【测度学习教程】 </p>
+        <a
+            href="https://www.bilibili.com/video/BV19e4y1P7rg/?share_source=copy_web&vd_source=a53ca93cafa9da1be869586a14e44651">
+            学个屁，直接买软件</a>
+        <p>my </p>
+        <p>my </p>
+        <p>my </p>
+        <p>my </p>
+    </div>
+
+</body>
+
+<body>
+    <div style="
+    background-color:#611111;
+    text-align:center;
+    padding:10px;
+    ">
+
+    </div>
+</body>
+
+</html>
